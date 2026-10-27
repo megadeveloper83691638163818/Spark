@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.emd4600.javafxribbon.RibbonGroup?>
+<?import io.github.emd4600.javafxribbon.RibbonButton?>
+
+<RibbonGroup fx:id="mainNode" text="DLL Mod" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sporemodder.view.ribbons.util.DllModUI">
+	<nodes>
+		<RibbonButton fx:id="btnBuild" contentDisplay="TOP" mnemonicParsing="false" text="Build DLL" textAlignment="CENTER" textOverrun="CLIP" wrapText="true" />
+		<RibbonButton fx:id="btnOpenFolder" contentDisplay="TOP" mnemonicParsing="false" text="Open Folder" textAlignment="CENTER" textOverrun="CLIP" wrapText="true" />
+		<RibbonButton fx:id="btnModInfo" contentDisplay="TOP" mnemonicParsing="false" text="Mod Info..." textAlignment="CENTER" textOverrun="CLIP" wrapText="true" />
+		<RibbonButton fx:id="btnSdkPaths" contentDisplay="TOP" mnemonicParsing="false" text="SDK Paths..." textAlignment="CENTER" textOverrun="CLIP" wrapText="true" />
+	</nodes>
+</RibbonGroup>
