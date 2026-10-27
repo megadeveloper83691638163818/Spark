@@ -1,0 +1,61 @@
+/* Structure of the new window layout (sizes only, no colours; used by every style) */
+.quick-bar {
+    -fx-padding: 8 12 8 12;
+    -fx-hgap: 8;
+    -fx-vgap: 6;
+    -fx-alignment: center-left;
+    -fx-row-valignment: center;
+}
+
+.quick-bar .button, .quick-bar .menu-button, .quick-bar .toggle-button {
+    -fx-font-size: 14px;
+    -fx-padding: 8 16 8 16;
+    -fx-min-height: 36;
+}
+
+.top-tabs {
+    -fx-spacing: 4;
+    -fx-alignment: center-left;
+}
+
+.ribbon-panel {
+    -fx-background-color: transparent;
+    -fx-padding: 0;
+    -fx-min-height: 104;
+    -fx-pref-height: 112;
+}
+
+.ribbon-panel > .viewport {
+    -fx-background-color: transparent;
+}
+
+.dock-split > .split-pane-divider {
+    -fx-padding: 0 3 0 3;
+}
+
+.file-popup {
+    -fx-padding: 10;
+    -fx-background-color: -fx-base;
+    -fx-border-color: derive(-fx-base, -25%);
+}
+
+/* square corners, .root prefix wins over the style radii */
+.root .button, .root .toggle-button, .root .menu-button, .root .split-menu-button, .root .menu-button > .arrow-button,
+.root .split-menu-button > .arrow-button, .root .split-menu-button > .label,
+.root .text-field, .root .text-area, .root .text-area .content, .root .password-field, .root .combo-box-base,
+.root .combo-box-base > .arrow-button, .root .combo-box-popup > .list-view, .root .choice-box, .root .choice-box > .open-button,
+.root .spinner, .root .spinner .text-field, .root .spinner .increment-arrow-button, .root .spinner .decrement-arrow-button,
+.root .tab, .root .tab-header-background, .root .tab-pane > .tab-header-area .tab, .root .tab-pane > .tab-content-area,
+.root .list-view, .root .list-cell, .root .tree-view, .root .tree-cell, .root .table-view, .root .table-row-cell,
+.root .scroll-pane, .root .scroll-bar, .root .scroll-bar .thumb, .root .scroll-bar .track, .root .scroll-bar .increment-button,
+.root .scroll-bar .decrement-button, .root .slider .track, .root .slider .thumb, .root .progress-bar .bar, .root .progress-bar .track,
+.root .check-box .box, .root .check-box .mark, .root .radio-button .radio, .root .radio-button .radio .dot,
+.root .context-menu, .root .menu-item, .root .tooltip, .root .titled-pane > .title, .root .titled-pane > .content,
+.root .split-pane, .root .split-pane-divider, .root .separator .line, .root .popover, .root .dialog-pane,
+.root .color-picker, .root .color-picker .color-picker-label, .root .date-picker, .root .date-picker-popup,
+.root .ribbon, .root .ribbon-panel, .root .ribbon-group, .root .ribbon-group .title-pane, .root .ribbon-tab, .root .ribbon-button,
+.root .file-popup, .root .quick-bar .button, .root .quick-bar .menu-button, .root .quick-bar .toggle-button, .root .quick-bar .top-tab,
+.root .debug-area, .root .debug-area .content {
+    -fx-background-radius: 0;
+    -fx-border-radius: 0;
+}

@@ -1,0 +1,21 @@
+/** -- C++ -- */
+
+.styled-text-area .cpp-comment {
+	-fx-fill: green;
+}
+.styled-text-area .cpp-string {
+	-fx-fill: #b5651d;
+}
+.styled-text-area .cpp-preprocessor {
+	-fx-fill: #8a2be2;
+}
+.styled-text-area .cpp-number {
+	-fx-fill: #e5af25;
+}
+.styled-text-area .cpp-keyword {
+	-fx-fill: #a470d4;
+	-fx-font-weight: bold;
+}
+.styled-text-area .cpp-type {
+	-fx-fill: #008b8b;
+}

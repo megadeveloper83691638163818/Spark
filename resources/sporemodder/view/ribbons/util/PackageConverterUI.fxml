@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import io.github.emd4600.javafxribbon.RibbonGroup?>
+<?import io.github.emd4600.javafxribbon.RibbonButton?>
+
+<RibbonGroup fx:id="mainNode" text="Package Converter (DBPF 3.0 → 2.0)" xmlns="http://javafx.com/javafx/9.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="sporemodder.view.ribbons.util.PackageConverterUI">
+	<nodes>
+		<RibbonButton fx:id="btnConvert" contentDisplay="TOP" mnemonicParsing="false" text="Convert Package..." textAlignment="CENTER" textOverrun="CLIP" wrapText="true" />
+		<RibbonButton fx:id="btnOpenOutput" contentDisplay="TOP" mnemonicParsing="false" text="Open Output Folder" textAlignment="CENTER" textOverrun="CLIP" wrapText="true" />
+	</nodes>
+</RibbonGroup>
