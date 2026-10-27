@@ -1,0 +1,749 @@
+# Russian translation. One line per text: the English text, a TAB, the Russian text.
+Add External Project	Добавить внешний проект
+Add external project	Добавить внешний проект
+Basic Actions	Основные действия
+Build DLL	Собрать DLL
+Build DLL and run game	Собрать DLL и запустить игру
+Cannot run game.	Не удаётся запустить игру.
+Community Links	Ссылки сообщества
+Compare	Сравнить
+Connect to Existing Repository	Подключиться к существующему репозиторию
+Convert Package...	Конвертировать пакет...
+Create GitHub Repository	Создать репозиторий GitHub
+Creates a new Spore ModAPI DLL mod.	Создаёт новый DLL-мод Spore ModAPI.
+Creates a new empty project to start modding.	Создаёт новый пустой проект для начала моддинга.
+DLL Mod	DLL-мод
+DLL Mods (Mode 2)	DLL-моды (режим 2)
+Decimal:	Десятичное:
+Documentation & Tutorials	Документация и руководства
+Documentation &amp; Tutorials	Документация и руководства
+Duplicate	Дублировать
+Edit Actions	Действия правки
+Explore Mod	Обзор мода
+Explore Reference	Обзор источника
+Find:	Найти:
+Git Commit	Git-коммит
+Hash:	Хеш:
+Hexadecimal:	Шестнадцатеричное:
+Import Files	Импорт файлов
+Import Old Project	Импорт старого проекта
+Import old project	Импорт старого проекта
+Language	Язык
+Language...	Язык...
+Log in to GitHub	Войти в GitHub
+Mod Actions	Действия с модом
+Mod Info...	Сведения о моде...
+Mod Properties	Свойства мода
+Modify	Изменить
+Name-Hash Converter	Конвертер имён и хешей
+Name:	Имя:
+New DLL mod	Новый DLL-мод
+New File	Новый файл
+New Folder	Новая папка
+New Project	Новый проект
+New project	Новый проект
+Number Converter	Конвертер чисел
+Number Type	Тип числа
+Open DLL mod	Открыть DLL-мод
+Open DLL mod...	Открыть DLL-мод...
+Open Folder	Открыть папку
+Open Output Folder	Открыть папку результата
+Open Project	Открыть проект
+Open project	Открыть проект
+Open project...	Открыть проект...
+Other	Прочее
+Pack mod	Упаковать мод
+Pack mod and run game	Упаковать мод и запустить игру
+Pack mod with debug info	Упаковать мод с отладочной информацией
+Package Converter (DBPF 3.0 → 2.0)	Конвертер пакетов (DBPF 3.0 → 2.0)
+Project Settings	Настройки проекта
+Publish Mod	Опубликовать мод
+Recent Projects	Недавние проекты
+Recent projects	Недавние проекты
+Redo	Повторить
+Refresh	Обновить
+Remove	Удалить
+Rename	Переименовать
+Run game	Запустить игру
+SDK Paths...	Пути к SDK...
+Save	Сохранить
+Settings	Настройки
+Show only modded files	Показывать только изменённые файлы
+Spore Mod Browser	Обозреватель модов Spore
+Spore Modding Discord Server	Discord-сервер по моддингу Spore
+Spore Official Discord Server	Официальный Discord-сервер Spore
+Text Actions	Действия с текстом
+Undo	Отменить
+Unpack .sporemod	Распаковать .sporemod
+Unpack DBPF	Распаковать DBPF
+Unpack Presets	Распаковать пресеты
+Unpack mod	Распаковать мод
+Unpacks .sporemod files into new DLL mods.	Распаковывает файлы .sporemod в новые DLL-моды.
+Unpacks the contents of a .package file into a new project.	Распаковывает содержимое файла .package в новый проект.
+Using name from:	Имя берётся из:
+Work mode...	Режим работы...
+Work Mode	Режим работы
+Work mode	Режим работы
+Choose how the program works	Выберите, как работает программа
+Standard	Стандартный
+Mode 2: DLL mods	Режим 2: DLL-моды
+DecompMode	DecompMode
+Regular SporeModder FX behaviour.	Обычная работа программы.
+Easy creation of Spore ModAPI DLL mods.	Простое создание DLL-модов Spore ModAPI.
+Decompilation work. Not implemented yet.	Работа с декомпиляцией. Пока не реализовано.
+Adds an external folder as a project, allowing to use Spark on it.	Добавляет внешнюю папку как проект, чтобы работать с ней в Spark.
+Builds the Spore ModAPI DLL of the active project with MSBuild.	Собирает DLL Spore ModAPI активного проекта через MSBuild.
+Change the program settings.	Изменить настройки программы.
+Choose how the program works: standard, DLL mods, ...	Выберите, как работает программа: стандартный режим, DLL-моды, ...
+Choose the language of the program	Выберите язык программы
+Imports a project from older SporeModder versions, converting .prop.xml into the modern .prop.prop_t format.	Импортирует проект из старых версий SporeModder, преобразуя .prop.xml в современный формат .prop.prop_t.
+Opens an existing project.	Открывает существующий проект.
+Packs the contents of the projects into .package file and runs Spore.	Упаковывает содержимое проектов в файл .package и запускает Spore.
+Packs the contents of the projects into .package file, with debug information for the ModCreatorKit	Упаковывает содержимое проектов в файл .package с отладочной информацией для ModCreatorKit
+Packs the contents of the projects into .package file.	Упаковывает содержимое проектов в файл .package.
+Runs Spore.	Запускает Spore.
+Unpacks groups of packages that are useful for investigation and modding.	Распаковывает группы пакетов, полезные для исследования и моддинга.
+Built-in image editor: off	Встроенный редактор изображений: выкл.
+Built-in image editor: on	Встроенный редактор изображений: вкл.
+Uses the built-in image editor (experimental) instead of the image viewer.	Использует встроенный редактор изображений (экспериментальный) вместо просмотрщика.
+Create a new Spore ModAPI DLL mod	Создать новый DLL-мод Spore ModAPI
+Version:	Версия:
+Author:	Автор:
+Spore ModAPI SDK:	Spore ModAPI SDK:
+Launcher Kit:	Launcher Kit:
+Browse...	Обзор...
+Display name:	Отображаемое имя:
+Unique name:	Уникальное имя:
+Description:	Описание:
+DLLs build:	Версия DLL:
+Mod info	Сведения о моде
+Cancel	Отмена
+Image Editor	Редактор изображений
+Filters	Фильтры
+Invert	Инвертировать
+Grayscale	Оттенки серого
+Pencil	Карандаш
+Layers	Слои
+Color:	Цвет:
+
+This file is binary (it contains NUL characters), so it cannot be shown or edited as text.	Это бинарный файл (в нём есть символы NUL), поэтому его нельзя показать или изменить как текст.
+Size (bytes):	Размер (байт):
+First bytes (hex):	Первые байты (hex):
+This file cannot be read as text, therefore it cannot be edited.	Этот файл нельзя прочитать как текст, поэтому его нельзя редактировать.
+
+# --- Дополнение: переведённые строки. \n = перенос строки, {} = подставляемое значение ---
+Push\n(Upload changes to GitHub)\n	Отправить\n(загрузить изменения на GitHub)\n
+Pull\n(Download changes from GitHub)	Получить\n(скачать изменения с GitHub)
+Git Sync\n(Push & Pull)	Синхронизация Git\n(отправка и получение)
+Add	Добавить
+It seems Spark hasn't been able to find your Spore installation path. We recommend that you specify it manually , since this will allow you to pack your mods directly into the game folder and run Spore by pressing F7. You can always change this later on the program settings.	Похоже, Spark не удалось найти папку установки Spore. Рекомендуем указать её вручную: так вы сможете упаковывать моды прямо в папку игры и запускать Spore по F7. Это можно изменить позже в настройках программы.
+As part of an existing mod	В составе существующего мода
+Mod Name:	Название мода:
+This ModInfo.xml contains advanced data that is not displayed here. Saving these properties will remove the advanced data.	Этот ModInfo.xml содержит расширенные данные, которые здесь не отображаются. Сохранение этих свойств удалит расширенные данные.
+Causes save data dependency	Создаёт зависимость сохранений от мода
+Package Name:	Имя пакета:
+New Files	Новые файлы
+Presets are groups of .package files that Spark has considered that will be useful for modding. Using presets is recommended for better perfomance and easier mod development. Check in the following list all the presets you want to unpack (WARNING: this might take a few minutes).	Наборы — это группы файлов .package, которые Spark считает полезными для моддинга. Использовать наборы рекомендуется для лучшей производительности и удобной разработки. Отметьте в списке все наборы, которые хотите распаковать (ВНИМАНИЕ: это может занять несколько минут).
+If you don't have 'git' installed, you can download it here:	Если у вас не установлен git, его можно скачать здесь:
+Repository URL:	Адрес репозитория:
+Style:	Стиль:
+Commit message cannot be empty	Сообщение коммита не может быть пустым
+A mod with this name already exists.	Мод с таким названием уже существует.
+Display Name:	Отображаемое имя:
+List of files included in the mod:	Список файлов, входящих в мод:
+References:	Ссылки:
+User Interface Settings	Настройки интерфейса
+Project Name:	Название проекта:
+General Settings	Общие настройки
+Spore Path:	Путь к Spore:
+Repository URL cannot be empty	Адрес репозитория не может быть пустым
+To use git, you must specify your GitHub username and email. We won't send you anything, it's just to sign git actions with your user.	Чтобы использовать git, укажите имя пользователя GitHub и адрес почты. Мы ничего вам не отправим — они нужны только для подписи действий git.
+The user will be warned when installed a mod marked as experimental. If set to 'AUTO', it will depend on the version tag used when publishing the mod.	Пользователь получит предупреждение при установке мода, помеченного как экспериментальный. При значении «AUTO» это зависит от тега версии, указанного при публикации мода.
+If the repository is private, only you will be able to see it. You can make it public later in the repository settings.	Если репозиторий приватный, его увидите только вы. Позже его можно сделать публичным в настройках репозитория.
+Your GitHub login has expired. To log in again, go to:	Срок действия входа в GitHub истёк. Чтобы войти снова, перейдите по адресу:
+Repository Name:	Название репозитория:
+Set a version tag for the published mod. The version must be stuff like 'v1.2.0', '3.5.9b', 'v0.0.3-beta', etc	Задайте тег версии для публикуемого мода. Версия должна выглядеть как «v1.2.0», «3.5.9b», «v0.0.3-beta» и т. п.
+Packing Settings	Настройки упаковки
+New Mod Name:	Новое название мода:
+Read-only project	Проект только для чтения
+Hyperlink	Гиперссылка
+Projects Folder (leave blank to use default folder):	Папка проектов (оставьте пустой, чтобы использовать папку по умолчанию):
+URL to the GitHub repository that hosts the mod. This is where the mod will be uploaded and published, and where the launcher can check for updates to your mod. To set it, use 'Create GitHub Repository' or 'Connect to Existing Repository' buttons.	Адрес репозитория GitHub, где размещён мод. Туда мод будет загружен и опубликован, и там лаунчер проверяет обновления. Чтобы задать его, используйте кнопки «Создать репозиторий GitHub» или «Подключить существующий репозиторий».
+GitHub Username:	Имя пользователя GitHub:
+Auto-detect game paths	Определить пути к игре автоматически
+Spark has two styles: light and dark. Choose the one you like more. You can always change this in the program settings.	У Spark два стиля: светлый и тёмный. Выберите тот, что нравится больше. Это можно изменить в настройках программы.
+Create new mod	Создать новый мод
+Packing path:	Путь упаковки:
+Parent Mod:	Родительский мод:
+Website:	Сайт:
+Destination project:	Целевой проект:
+Spark will store and load its projects in this folder	Spark будет хранить и загружать проекты в этой папке
+URL to a website with more info of your mod; usually, it is the GitHub repository's README page.	Адрес сайта с подробной информацией о моде; обычно это страница README репозитория GitHub.
+Set the URL to an existing repository, such as 'https://github.com/emd4600/advanced-creature-paint'. You must have permissions to write to that repository.	Укажите адрес существующего репозитория, например «https://github.com/emd4600/advanced-creature-paint». У вас должны быть права на запись в этот репозиторий.
+These are the properties for your mod. These properties will be used when publishing your mod, and it is what other users will see.\nTo publish the mod, you need to have a GitHub account, and create an empty repository for the mod. Then set the GitHub URL here.\nThese properties are saved in the ModInfo.xml file in the root folder of the mod. If you want more advanced features, such as mod components, you have to edit it manually.	Это свойства вашего мода. Они используются при публикации, и именно их увидят другие пользователи.\nЧтобы опубликовать мод, нужна учётная запись GitHub и пустой репозиторий для мода. Затем укажите здесь адрес на GitHub.\nСвойства сохраняются в файле ModInfo.xml в корневой папке мода. Для расширенных возможностей, например компонентов мода, файл нужно править вручную.
+Select if this mod uses C++ code to add save data, which might render saved games unplayable if the mod is uninstalled.	Отметьте, если мод добавляет данные сохранений через код C++: после удаления мода такие сохранения могут перестать работать.
+Shader Settings	Настройки шейдеров
+Label	Метка
+Version Tag:	Тег версии:
+Private repository	Приватный репозиторий
+Email Address:	Адрес электронной почты:
+Custom Path:	Свой путь:
+Game to execute:	Запускаемая игра:
+Command line arguments:	Аргументы командной строки:
+Changes will be applied upon restart.	Изменения вступят в силу после перезапуска.
+FXC Path:	Путь к FXC:
+Source Projects:	Исходные проекты:
+This package name is already being used by another project.	Это имя пакета уже используется другим проектом.
+Embedded package signature:	Встроенная подпись пакета:
+Spark allows integration with GitHub. Being connected to GitHub will allow you to upload your mods, and automatically publish them.	Spark поддерживает интеграцию с GitHub. После подключения вы сможете загружать моды и публиковать их автоматически.
+Afterwards, you will be asked to log into GitHub in your browser. Then, if there weren't already, Spark will set up SSH keys that will allow your computer to upload code to your GitHub repositories.	Затем вас попросят войти в GitHub в браузере. После этого Spark настроит SSH-ключи (если их ещё нет), чтобы компьютер мог загружать код в ваши репозитории GitHub.
+A new project will be created.	Будет создан новый проект.
+Formats to convert	Форматы для преобразования
+Cannot pack: input directory '{}' does not exist	Невозможно упаковать: входная папка «{}» не существует
+Packing {} ...	Упаковка {} ...
+File Names	Имена файлов
+Types	Типы
+Properties	Свойства
+Simulator Attributes	Атрибуты симулятора
+Names used by the project	Имена, используемые в проекте
+The file name registry (reg_file.txt) is corrupt or missing.	Реестр имён файлов (reg_file.txt) повреждён или отсутствует.
+The types registry (reg_type.txt) is corrupt or missing.	Реестр типов (reg_type.txt) повреждён или отсутствует.
+The property registry (reg_property.txt) is corrupt or missing.	Реестр свойств (reg_property.txt) повреждён или отсутствует.
+The simulator attributes registry (reg_simulator.txt or reg_simulator_stub.txt) is corrupt or missing.	Реестр атрибутов симулятора (reg_simulator.txt или reg_simulator_stub.txt) повреждён или отсутствует.
+Unable to find {} hash.  It does not exist in the reg_file registry.	Не удалось найти хеш {}. Его нет в реестре reg_file.
+The input file is not in any recognizable format	Входной файл имеет неизвестный формат
+Trying to convert format '{}' failed.	Не удалось преобразовать формат «{}».
+Successfully converted format '{}'.	Формат «{}» успешно преобразован.
+Regular Spark behaviour.	Обычное поведение Spark.
+Alias (using ~) not found in file registry	Псевдоним (с ~) не найден в реестре файлов
+Documentation	Документация
+Default	По умолчанию
+Dark	Тёмный
+Error	Ошибка
+Select the Spore ModAPI SDK folder	Выберите папку Spore ModAPI SDK
+Select the Spore ModAPI Launcher Kit folder	Выберите папку Spore ModAPI Launcher Kit
+Cannot create the DLL mod.	Не удалось создать DLL-мод.
+There is no active project.	Нет активного проекта.
+Cannot edit the mod info.	Не удалось изменить информацию о моде.
+Select the .sporemod files to unpack	Выберите файлы .sporemod для распаковки
+Spore mod (*.sporemod)	Мод Spore (*.sporemod)
+All files	Все файлы
+All Files	Все файлы
+Mod unpacked	Мод распакован
+This project has no Visual Studio project (.vcxproj), so there is nothing to build.	В этом проекте нет проекта Visual Studio (.vcxproj), собирать нечего.
+Cannot open the folder.	Не удалось открыть папку.
+Cannot build the project.	Не удалось собрать проект.
+Build succeeded.\n\n	Сборка выполнена успешно.\n\n
+Build failed.\n\n	Сборка не удалась.\n\n
+Cannot unpack {}.	Не удалось распаковать {}.
+{} package(s), {} DLL(s), {} other file(s)	Пакетов: {}, DLL: {}, других файлов: {}
+Old: {}	Было: {}
+New: {}	Стало: {}
+Update available	Доступно обновление
+You can view the changelog in the following link:	Список изменений можно посмотреть по ссылке:
+Downloading updater	Загрузка программы обновления
+Accept	Принять
+Fatal error	Критическая ошибка
+Updater could not be executed.	Не удалось запустить программу обновления.
+A new update ("{}") has been released. Do you want to download it?	Вышло новое обновление («{}»). Скачать его?
+English	Английский
+Executable File	Исполняемый файл
+Direct Draw Surface Texture	Текстура Direct Draw Surface
+Portable Network Graphics	Portable Network Graphics
+Database Packed File	Упакованный файл базы данных
+Unpacking {} ...	Распаковка {} ...
+Spore (Game & Graphics)	Spore (игра и графика)
+The Spore and Galactic Adventures packages containing everything needed for most mods.	Пакеты Spore и Galactic Adventures со всем необходимым для большинства модов.
+Spore Audio	Звук Spore
+The packages that contain all Spore and Galactic Adventures audio.	Пакеты со всем звуком Spore и Galactic Adventures.
+Player Creations	Творения игроков
+The packages that contain data about player creations.	Пакеты с данными о творениях игроков.
+Copy name	Копировать имя
+Copy file path	Копировать путь к файлу
+Copy resource key	Копировать ключ ресурса
+Copy ID	Копировать ID
+Create new file	Создать файл
+Create new file in same directory	Создать файл в той же папке
+Create new folder	Создать папку
+Create new folder in same directory	Создать папку в той же папке
+Import files...	Импортировать файлы...
+Explore source folder	Открыть исходную папку
+Explore mod folder	Открыть папку мода
+Must provide a project to save the name registry.	Для сохранения реестра имён нужно указать проект.
+There is no active project to pack. Open or create a project first.	Нет активного проекта для упаковки. Сначала откройте или создайте проект.
+The specified output folder does not exist.	Указанная выходная папка не существует.
+Finished! All presets were unpacked successfully. Below you can check a list of all the packages they include:	Готово! Все наборы успешно распакованы. Ниже список входящих в них пакетов:
+Finished! Some packages could not be unpacked; below there is a list with the packages the presets contains, the ones in red were missing:	Готово! Некоторые пакеты распаковать не удалось; ниже список пакетов наборов, отсутствующие выделены красным:
+Unpacking task finished	Распаковка завершена
+Confirm action	Подтверждение действия
+Don't ask me again.	Больше не спрашивать.
+Are you sure you want to remove this file?	Вы уверены, что хотите удалить этот файл?
+A project with this name already exists. Do you want to replace all its contents?	Проект с таким названием уже существует. Заменить всё его содержимое?
+Error adding external project	Ошибка добавления внешнего проекта
+In order to start modding Spore, you'll need to unpack the game files. You can choose from the presets below. We have already checked the 'Spore (Game & Graphics)' because it is what you will need for most of the things you want to modify.	Чтобы начать моддинг Spore, нужно распаковать файлы игры. Выберите наборы ниже. Набор «Spore (игра и графика)» уже отмечен: он нужен для большинства модификаций.
+This file has been edited. Do you want to include it into your mod? If you press no, all changes will be discarded.	Файл был изменён. Включить его в мод? Если нажать «Нет», все изменения будут отброшены.
+Remember my decision.	Запомнить моё решение.
+This file has unsaved changes. Do you want to save it? If you press no, all changes will be discarded.	В файле есть несохранённые изменения. Сохранить их? Если нажать «Нет», изменения будут отброшены.
+Fatal error, file could not be unpacked	Критическая ошибка, файл не удалось распаковать
+Cannot open mod folder.	Не удалось открыть папку мода.
+Cannot open source folder.	Не удалось открыть исходную папку.
+Cannot compare item.	Не удалось сравнить элемент.
+Cannot refresh item.	Не удалось обновить элемент.
+Cannot import files.	Не удалось импортировать файлы.
+Cannot modify item.	Не удалось изменить элемент.
+Cannot remove item.	Не удалось удалить элемент.
+Cannot rename item.	Не удалось переименовать элемент.
+Cannot create new folder.	Не удалось создать папку.
+Cannot create new file.	Не удалось создать файл.
+Cannot select file	Не удалось выбрать файл
+Failed to generate ModInfo.xml for mod: {}	Не удалось создать ModInfo.xml для мода: {}
+The package name "{}" is protected and should not be packed. Packing protected packages might cause irreversible changes to he game. Are you sure you want to proceed?	Имя пакета «{}» защищено, такой пакет упаковывать не следует. Упаковка защищённых пакетов может необратимо изменить игру. Продолжить?
+Failed to create base folder for mod: {}	Не удалось создать основную папку мода: {}
+Failed to create 'data' and 'src' folders for mod: {}	Не удалось создать папки «data» и «src» для мода: {}
+Failed to create GitHub action folders for mod: {}	Не удалось создать папки GitHub Actions для мода: {}
+Unpacking preset "{}" ({} of {})	Распаковка набора «{}» ({} из {})
+The selected folder "{}" does not look like a project. Are you sure you want to continue?	Выбранная папка «{}» не похожа на проект. Продолжить?
+Cannot create new {}	Не удалось создать {}
+Cannot load file "{}".	Не удалось загрузить файл «{}».
+Languages	Языки
+Git is not installed on your computer. You can download it here:	Git не установлен на компьютере. Его можно скачать здесь:
+Git not installed	Git не установлен
+Mod already has repository	У мода уже есть репозиторий
+The mod already has a remote repository configured. Do you want to overwrite it?	У мода уже настроен удалённый репозиторий. Перезаписать его?
+GitHub API Key Missing	Отсутствует ключ GitHub API
+HTTP Error: {}	Ошибка HTTP: {}
+Cannot execute Galactic Adventures, no path has been specified.	Невозможно запустить Galactic Adventures: путь не указан.
+Cannot execute Spore, no path has been specified.	Невозможно запустить Spore: путь не указан.
+The path to the projects folder does not exist: {}	Путь к папке проектов не существует: {}
+View changelog	Список изменений
+None	Нет
+Could not unpack file.	Не удалось распаковать файл.
+Unpack finished	Распаковка завершена
+Unpacking {}	Распаковка {}
+Successfully unpacked in {} seconds.	Успешно распаковано за {} с.
+Import	Импорт
+Export	Экспорт
+Preview	Предпросмотр
+UV Editor	Редактор UV
+File	Файл
+Importing "{}"	Импорт «{}»
+Files searched: {}	Просмотрено файлов: {}
+Items searched: {}	Просмотрено элементов: {}
+Range	Диапазон
+No	Нет
+Yes	Да
+False	Ложь
+Packed packages	Упакованные пакеты
+File {} already exists	Файл {} уже существует
+Folder {} already exists	Папка {} уже существует
+Project Names	Имена проекта
+There are errors in the file	В файле есть ошибки
+Auto	Авто
+Import finished	Импорт завершён
+Fatal error, project could not be imported	Критическая ошибка, проект не удалось импортировать
+There were errors on {} files, which were not imported.	Ошибки в файлах ({}); они не были импортированы.
+Successfully imported in {} seconds.	Успешно импортировано за {} с.
+DataEP1 (Galactic Adventures)	DataEP1 (Galactic Adventures)
+Data (base Spore)	Data (базовая Spore)
+Bot Parts	Части роботов
+Cannot save the image.	Не удалось сохранить изображение.
+Unsupported image type: {}	Неподдерживаемый тип изображения: {}
+Background	Фон
+Not a supported image: {}	Неподдерживаемое изображение: {}
+Inspector	Инспектор
+The name can only contain numbers, letters, -, _, ~,. and #.	Имя может содержать только цифры, буквы и символы -, _, ~, . и #.
+There's already a file with this name in the mod.	В моде уже есть файл с таким именем.
+Original	Оригинал
+Model Viewer	Просмотр модели
+Animation	Анимация
+Effect Editor	Редактор эффектов
+Cannot save file.	Не удалось сохранить файл.
+Cannot include file into mod project.	Не удалось включить файл в проект мода.
+Could not restore contents.	Не удалось восстановить содержимое.
+For the Effect Editor to work, you must set the Galatic Adventures path in the program settings.	Для работы редактора эффектов укажите путь к Galactic Adventures в настройках программы.
+Could not set up the effect editor.	Не удалось настроить редактор эффектов.
+For the Anim Editor to work, you must set the Galatic Adventures path in the program settings.	Для работы редактора анимаций укажите путь к Galactic Adventures в настройках программы.
+Could not set up the anim editor.	Не удалось настроить редактор анимаций.
+Animation Editor	Редактор анимаций
+Layout	Раскладка
+Images	Изображения
+Drawables	Элементы отрисовки
+Search	Поиск
+Show all	Показать все
+SPUI Editor	Редактор SPUI
+SPUI Preview	Предпросмотр SPUI
+Choose a drawable	Выберите элемент отрисовки
+Cannot duplicate SPUI block.	Не удалось дублировать блок SPUI.
+The following images could not be loaded:	Не удалось загрузить следующие изображения:
+This format is not supported by SporeModder and it cannot be read as text, therefore it cannot be edited.	Этот формат не поддерживается, его нельзя прочитать как текст, поэтому редактирование невозможно.
+Compiled Shader	Скомпилированный шейдер
+Vertex Shader	Вершинный шейдер
+Pixel Shader	Пиксельный шейдер
+Shader Fragment	Фрагмент шейдера
+Cannot load shader.	Не удалось загрузить шейдер.
+FXC.exe not found, shader could not be decompiled. Install FXC (Windows Kit) to view the shader.	FXC.exe не найден, шейдер не удалось декомпилировать. Установите FXC (Windows Kit), чтобы просматривать шейдер.
+Reload file?	Перезагрузить файл?
+The file has been modified by an external program. Do you want to reload it? (the current contents will be lost)	Файл изменён внешней программой. Перезагрузить его? (текущее содержимое будет потеряно)
+Error reloading file	Ошибка перезагрузки файла
+Ignore alpha	Игнорировать альфа-канал
+Animations	Анимации
+Morph Handles	Рычаги морфинга
+Textures	Текстуры
+External Textures	Внешние текстуры
+Compiled States	Скомпилированные состояния
+Name	Имя
+A name used to identify this texture slot.	Имя для идентификации этого слота текстуры.
+Handle ID	ID рычага
+The ID of the handle, it determines the type.	ID рычага, определяет его тип.
+Default Time (s)	Время по умолчанию (с)
+The time of animation, in seconds (24 frames = 1s), where the morph is by default.	Время анимации в секундах (24 кадра = 1 с), на котором морф находится по умолчанию.
+Start Position	Начальная позиция
+The start position of the handle	Начальная позиция рычага
+End Position	Конечная позиция
+Texture could not be imported. Only DDS textures are supported.	Не удалось импортировать текстуру. Поддерживаются только текстуры DDS.
+Components	Компоненты
+Exports	Экспорт
+Imports	Импорт
+Export as DDS	Экспортировать как DDS
+Export as PNG	Экспортировать как PNG
+Red	Красный
+Green	Зелёный
+Blue	Синий
+Alpha	Альфа
+Zoom:	Масштаб:
+Background Color:	Цвет фона:
+Channels:	Каналы:
+RW4 textures cannot be directly used outside SporeModder, you must convert them first.	Текстуры RW4 нельзя напрямую использовать вне программы, сначала их нужно преобразовать.
+Image Viewer	Просмотр изображений
+The image could not be exported: {}	Не удалось экспортировать изображение: {}
+Choose an image	Выберите изображение
+Add Windows	Добавить окна
+Add Window Procedures	Добавить оконные процедуры
+Cannot import partial SPUI.	Не удалось импортировать частичный SPUI.
+Cannot export SPUI part.	Не удалось экспортировать часть SPUI.
+Choose a style	Выберите стиль
+No value	Нет значения
+Text	Текст
+Edit	Правка
+Utilities	Утилиты
+Git & Mod Publish	Git и публикация мода
+Project	Проект
+Converted packages	Преобразованные пакеты
+Select the package to convert	Выберите пакет для преобразования
+Spore package (*.package)	Пакет Spore (*.package)
+Cannot convert the package.	Не удалось преобразовать пакет.
+Package converted	Пакет преобразован
+Cannot open the output folder.	Не удалось открыть выходную папку.
+Not found	Не найдено
+Save the changes on the file (Ctrl+S)	Сохранить изменения в файле (Ctrl+S)
+Undo last edit action (Ctrl+Z)	Отменить последнее действие (Ctrl+Z)
+Redo edit action (Ctrl+Y)	Повторить действие (Ctrl+Y)
+Cannot open reference folder.	Не удалось открыть папку ссылки.
+Create a new file in the selected folder (Ctrl+N)	Создать файл в выбранной папке (Ctrl+N)
+Create a new folder inside the selected folder (Ctrl+Shift+N)	Создать папку внутри выбранной папки (Ctrl+Shift+N)
+Rename the selected file. (Ctrl+R)	Переименовать выбранный файл (Ctrl+R)
+Reload the project tree for this item (F5)	Обновить дерево проекта для этого элемента (F5)
+Import files into the project (Ctrl+I)	Импортировать файлы в проект (Ctrl+I)
+Removes the file from the project	Удаляет файл из проекта
+Includes the file into your mod project so it can be modified (Ctrl+M)	Включает файл в проект мода, чтобы его можно было изменять (Ctrl+M)
+Creates a copy inside the mod project of the selected file.	Создаёт копию выбранного файла внутри проекта мода.
+Cannot import external files.	Не удалось импортировать внешние файлы.
+Cannot duplicate item.	Не удалось дублировать элемент.
+Configure the properties of the mod, such as name and description	Настройка свойств мода: названия, описания и т. д.
+Upload or download changes from the git repository	Отправка и получение изменений из репозитория git
+Create a new GitHub repository for this mod	Создать новый репозиторий GitHub для этого мода
+Commit (i.e. save) changes to the git repository	Зафиксировать (сохранить) изменения в репозитории git
+Log in to your GitHub account	Войти в учётную запись GitHub
+Package and publish the mod into the GitHub repository	Упаковать и опубликовать мод в репозитории GitHub
+Connect the mod with an existing GitHub repository	Подключить мод к существующему репозиторию GitHub
+Commit changes	Зафиксировать изменения
+You logged in successfully!	Вход выполнен успешно!
+Mod Publish	Публикация мода
+You have uncommitted changes. If you publish without committing, these changes won't be part \nof the published mod. Are you sure you want to continue?	Есть незафиксированные изменения. Если опубликовать без коммита, они не попадут \nв опубликованный мод. Продолжить?
+Publish without committing	Опубликовать без коммита
+Pull & Push	Получение и отправка
+You have uncommitted changes. If you push without committed, these changes won't be uploaded, \nand pulling might cause merging trouble. Are you sure you want to continue?	Есть незафиксированные изменения. Если отправить без коммита, они не будут загружены, \nа получение изменений может вызвать конфликты слияния. Продолжить?
+Sync without committing	Синхронизировать без коммита
+This repository doesn't have a remote set up. {} is not possible.\nUse 'Create GitHub Repository' or 'Connect to Existing Repository' before.	У этого репозитория не настроен удалённый адрес. Действие «{}» невозможно.\nСначала используйте «Создать репозиторий GitHub» или «Подключить существующий репозиторий».
+Galactic Adventures	Galactic Adventures
+Custom	Свой
+Couldn't save project settings	Не удалось сохранить настройки проекта
+Add source project	Добавить исходный проект
+Project Settings ({})	Настройки проекта ({})
+Mod name cannot be empty	Название мода не может быть пустым
+Unique tag cannot be empty	Уникальный тег не может быть пустым
+Unique tag must have at least 6 characters	Уникальный тег должен содержать не менее 6 символов
+Mod Properties ({})	Свойства мода ({})
+Repository URL must begin with 'https://github.com/'	Адрес репозитория должен начинаться с «https://github.com/»
+Failed to connect to existing repository	Не удалось подключиться к существующему репозиторию
+Connect Mod to existing GitHub Repository ({})	Подключение мода к существующему репозиторию GitHub ({})
+Create new project	Создать новый проект
+A mod with this name already exists	Мод с таким названием уже существует
+Mod name cannot contain any character from /\\[]{}	Название мода не может содержать символы из набора /\\[]{}
+References allow you to see files from other projects, and edit and copy them to your mod. You can change them later in the project settings.	Ссылки позволяют видеть файлы других проектов, редактировать их и копировать в свой мод. Их можно изменить позже в настройках проекта.
+A package project with this name already exists	Проект пакета с таким названием уже существует
+Package project name cannot be empty	Название проекта пакета не может быть пустым
+Package project name cannot contain any character from /\\[]{}	Название проекта пакета не может содержать символы из набора /\\[]{}
+Project {}	Проект {}
+Install in:	Установить в:
+The project was not packed	Проект не был упакован
+Confirm cancellation	Подтверждение отмены
+Are you sure you want to cancel?	Вы уверены, что хотите отменить?
+All the progress will be lost!	Весь прогресс будет потерян!
+Packing '{}'	Упаковка «{}»
+The project was not packed due to an error in file {}	Проект не упакован из-за ошибки в файле {}
+Skip	Пропустить
+Repository name cannot be empty	Название репозитория не может быть пустым
+Repository already exists	Репозиторий уже существует
+Failed to create repository	Не удалось создать репозиторий
+Your repository was successfully created at:	Репозиторий успешно создан по адресу:
+Repository created	Репозиторий создан
+Could not create the repository. You need to "install" Spark to your GitHub account, to allow it to create repositories. You can do it at this link:	Не удалось создать репозиторий. Нужно «установить» Spark в вашу учётную запись GitHub, чтобы он мог создавать репозитории. Это можно сделать по ссылке:
+Create new GitHub Repository ({})	Создание нового репозитория GitHub ({})
+A project with this name already exists	Проект с таким названием уже существует
+Mod name cannot be blank	Название мода не может быть пустым
+Create new mod project	Создать проект мода
+Advanced Options	Дополнительные параметры
+Username cannot be empty	Имя пользователя не может быть пустым
+Email address cannot be empty	Адрес почты не может быть пустым
+Connect with git/GitHub	Подключение к git/GitHub
+Continue to log in	Продолжить вход
+Set up later	Настроить позже
+Commit	Коммит
+Failed to configure git username and email. Commit will not be performed.	Не удалось настроить имя пользователя и почту git. Коммит не будет выполнен.
+Failed to commit changes into git	Не удалось зафиксировать изменения в git
+There are no modified or new files to commit	Нет изменённых или новых файлов для коммита
+Commit changes to Git ({})	Коммит изменений в Git ({})
+Find the paths to Spore	Поиск путей к Spore
+The selected folder is not a valid Galactic Adventures installation folder.	Выбранная папка не является папкой установки Galactic Adventures.
+Invalid Folder	Неверная папка
+The selected folder is not a valid Spore installation folder.	Выбранная папка не является папкой установки Spore.
+Choose Spark Style	Выбор стиля Spark
+Pushing...\n	Отправка...\n
+Failed to push to git	Не удалось отправить изменения в git
+Pulling...\n	Получение...\n
+Failed to pull to git	Не удалось получить изменения из git
+Done\n	Готово\n
+Synchronize (push/pull) with Git ({})	Синхронизация с Git ({})
+Read-only projects cannot be packed and its contents cannot be directly edited. Use this when you want to ensure that you don't override the .package accidentally.	Проекты только для чтения нельзя упаковать, а их содержимое нельзя напрямую изменять. Используйте это, чтобы случайно не перезаписать .package.
+The project already exists, its contents will be replaced.	Проект уже существует, его содержимое будет заменено.
+A new project will be created	Будет создан новый проект
+There were errors on {} files, which were not unpacked.	Ошибки в файлах ({}); они не были распакованы.
+Version tag cannot be empty	Тег версии не может быть пустым
+Publish	Опубликовать
+Creating tag...\n	Создание тега...\n
+Version tag must begin with 'v' or a number	Тег версии должен начинаться с «v» или цифры
+Version tag cannot end with a dot	Тег версии не может заканчиваться точкой
+Version tag cannot have more than 3 parts	Тег версии не может содержать более 3 частей
+Version tag cannot have empty parts	Тег версии не может содержать пустых частей
+Version tag parts must be positive integers	Части тега версии должны быть положительными целыми числами
+Failed to publish mod	Не удалось опубликовать мод
+Pushing changes...\n	Отправка изменений...\n
+Pushing tag...\n	Отправка тега...\n
+The mod is not public yet. When you are sure you want to release it, head over to the link and make it public.	Мод ещё не публичный. Когда будете готовы выпустить его, перейдите по ссылке и сделайте репозиторий публичным.
+Mod published	Мод опубликован
+Congratulations! Your mod '{}', version {} has been uploaded, and will appear in a few minutes as a draft:	Поздравляем! Ваш мод «{}», версия {}, загружен и через несколько минут появится как черновик:
+Authenticate to GitHub	Авторизация в GitHub
+Waiting...	Ожидание...
+Failed to communicate with GitHub	Не удалось связаться с GitHub
+Failed to generate SSH keys. Some git actions might not work.	Не удалось создать SSH-ключи. Некоторые действия git могут не работать.
+Use letters, digits and '_', starting with a letter.	Используйте буквы, цифры и «_», начиная с буквы.
+A project with this name already exists.	Проект с таким названием уже существует.
+The path to fxc.exe, usually inside DirectX SDK or Microsoft SDK.	Путь к fxc.exe, обычно в DirectX SDK или Microsoft SDK.
+The game settings used by default	Настройки игры по умолчанию
+The command line arguments that are used when executing the game.	Аргументы командной строки при запуске игры.
+Which game should SporeModder execute: Spore, Galactic Adventures, or a custom executable.	Какую игру запускать: Spore, Galactic Adventures или свой исполняемый файл.
+The visual styling used in the program. Changes will be applied on restart.	Визуальный стиль программы. Изменения вступят в силу после перезапуска.
+The Projects folder has been changed. The changes won't apply until you restart Spark.	Папка проектов изменена. Изменения вступят в силу после перезапуска Spark.
+Spark Settings	Настройки Spark
+The Projects folder does not exist: {}	Папка проектов не существует: {}
+Failed to wait for device login	Не удалось дождаться входа с устройства
+Converted {} items:\n{}	Преобразовано элементов: {}:\n{}
+The following packages are included:\n	Включены следующие пакеты:\n
+Choose the language of the program\n(buttons like OK and Cancel change after a restart)	Выберите язык программы\n(кнопки вроде «OK» и «Отмена» изменятся после перезапуска)
+The file contains 	Файл содержит 
+Must specify a LocalizedText for the inspector to modify.	Для изменения в инспекторе нужно указать LocalizedText.
+Button	Кнопка
+Doing this will not synchronize any data between your local computer and the GitHub repository. You can do it later in the 'Git Sync' wnidow (push & pull).	Это не синхронизирует данные между компьютером и репозиторием GitHub. Позже это можно сделать в окне «Синхронизация Git» (отправка и получение).
+Unique Tag:	Уникальный тег:
+Package Project Name:	Название проекта пакета:
+A package project with this name already exists.	Проект пакета с таким названием уже существует.
+Galactic Adventures Path:	Путь к Galactic Adventures:
+Then insert the following code:	Затем введите следующий код:
+Once you are logged in, this dialog will close after a few seconds.	После входа это окно закроется через несколько секунд.
+Modified Files	Изменённые файлы
+Write your commit message here	Введите сообщение коммита
+The name of your mod that is shown to players.	Название мода, которое видят игроки.
+A more detailed description of your mod.	Более подробное описание мода.
+A tag name that uniquely identifies your mod, it must be different from other mod tags. Cannot contain whitespaces.	Тег, однозначно идентифицирующий мод; он должен отличаться от тегов других модов. Пробелы недопустимы.
+GitHub Repository:	Репозиторий GitHub:
+Is experimental	Экспериментальный
+Requires galaxy reset	Требует сброса галактики
+Select if the player needs to reset the Galaxy before the mod can take effect.	Отметьте, если игроку нужно сбросить галактику, чтобы мод заработал.
+Package Projects	Проекты пакетов
+C++ DLLs	DLL на C++
+Search projects	Поиск проектов
+Game Settings	Настройки игры
+
+# --- Редактор изображений ---
+Layer	Слой
+Size:	Размер:
+Eraser	Ластик
+Fill	Заливка
+Picker	Пипетка
+Line	Линия
+Rectangle	Прямоугольник
+Ellipse	Эллипс
+Sepia	Сепия
+Brightness +	Яркость +
+Brightness -	Яркость −
+Contrast +	Контраст +
+Contrast -	Контраст −
+Threshold	Порог
+Posterize	Постеризация
+Blur	Размытие
+Sharpen	Резкость
+Flip horizontally	Отразить по горизонтали
+Flip vertically	Отразить по вертикали
+Copy	Копия
+Delete	Удалить
+Up	Выше
+Down	Ниже
+Opacity	Непрозрачность
+Brush size	Размер кисти
+Rename layer	Переименовать слой
+Add layer	Добавить слой
+Duplicate layer	Дублировать слой
+Delete layer	Удалить слой
+Move layer	Переместить слой
+
+# --- Редактор изображений: выделения, коррекции, фильтры ---
+Brush	Кисть
+Gradient	Градиент
+Dodge	Осветлитель
+Burn	Затемнитель
+Blur Brush	Кисть размытия
+Rect Select	Прямоугольное выделение
+Ellipse Select	Овальное выделение
+Magic Wand	Волшебная палочка
+Image	Изображение
+Select	Выделение
+Adjustments	Коррекция
+Rotate 90° CW	Повернуть на 90° по часовой
+Rotate 90° CCW	Повернуть на 90° против часовой
+Rotate 180°	Повернуть на 180°
+Flip Image Horizontally	Отразить изображение по горизонтали
+Flip Image Vertically	Отразить изображение по вертикали
+Resize Image...	Размер изображения...
+Resize Image	Размер изображения
+Canvas Size...	Размер холста...
+Canvas Size	Размер холста
+Crop to Selection	Обрезать по выделению
+Crop	Обрезка
+Flatten Image	Свести слои
+Merge Down	Объединить с нижним
+Select All	Выделить всё
+Deselect	Снять выделение
+Invert Selection	Инвертировать выделение
+Feather...	Растушёвка...
+Feather	Растушёвка
+Radius (px):	Радиус (пикс.):
+Width:	Ширина:
+Height:	Высота:
+Secondary:	Второй цвет:
+Opacity:	Непрозрачность:
+Hardness:	Жёсткость:
+Brush opacity	Непрозрачность кисти
+Brush hardness (Magic Wand: low 	 more tolerance)=Жёсткость кисти (Волшебная палочка: меньше = больше допуск)
+Blend mode	Режим наложения
+Normal	Обычный
+Multiply	Умножение
+Screen	Осветление
+Overlay	Перекрытие
+Darken	Затемнение
+Lighten	Замена светлым
+Color Dodge	Осветление основы
+Color Burn	Затемнение основы
+Hard Light	Жёсткий свет
+Soft Light	Мягкий свет
+Difference	Разница
+Exclusion	Исключение
+Subtract	Вычитание
+Brightness/Contrast	Яркость/Контраст
+Brightness/Contrast...	Яркость/Контраст...
+Hue/Saturation	Тон/Насыщенность
+Hue/Saturation...	Тон/Насыщенность...
+Levels	Уровни
+Levels...	Уровни...
+Vibrance	Красочность
+Vibrance...	Красочность...
+Color Balance	Цветовой баланс
+Color Balance...	Цветовой баланс...
+Temperature	Температура
+Temperature...	Температура...
+Equalize	Выравнивание
+Gaussian Blur	Размытие по Гауссу
+Gaussian Blur...	Размытие по Гауссу...
+Motion Blur	Размытие в движении
+Motion Blur...	Размытие в движении...
+Pixelate	Пикселизация
+Pixelate...	Пикселизация...
+Add Noise	Добавить шум
+Add Noise...	Добавить шум...
+Median	Медиана
+Median...	Медиана...
+Edge Detect	Выделение краёв
+Edge Detect...	Выделение краёв...
+Emboss	Рельеф
+Emboss...	Рельеф...
+Brightness	Яркость
+Contrast	Контраст
+Hue	Тон
+Saturation	Насыщенность
+Lightness	Светлота
+Input black	Входной чёрный
+Input white	Входной белый
+Gamma	Гамма
+Output black	Выходной чёрный
+Output white	Выходной белый
+Warm/Cool	Тёплый/Холодный
+Radius	Радиус
+Distance	Расстояние
+Angle	Угол
+Cell size	Размер ячейки
+Amount	Количество
+Monochrome	Монохромный
+Strength	Сила
+Flip Image	Отражение изображения
+Flatten	Сведение
+Merge	Объединение
+Rotate 90 CW	Поворот на 90° по часовой
+
+# --- Журнал сборки, настройки ---
+Build log	Журнал сборки
+Clear	Очистить
+Close	Закрыть
+Open on build	Открывать при сборке
+Interface	Интерфейс
+Shows debug information of the last project builds.	Показывает отладочную информацию последних сборок проектов.
+Copy text	Копировать текст
+Stop build	Остановить сборку
+No DLL build is running	Сборка DLL не запущена
+
+# --- Новая раскладка ---
+Exit	Выход
+Converter	Конвертер
+Folder	Папка
+Compile	Компиляция
+View	Вид
+Project tree	Дерево проекта
+Debug	Отладка
+Ribbon	Лента
+Reset layout	Сбросить раскладку
+Close the program	Закрыть программу
+Number, hash and package converters	Конвертеры чисел, хешей и пакетов
+Opens the folder of the active project	Открывает папку активного проекта
+Packs the mod, or builds the DLL in DLL mode	Упаковывает мод, а в режиме DLL собирает DLL
+
+Projects, packing and unpacking	Проекты, упаковка и распаковка
+Number, hash and package converters (press again to close)	Конвертеры чисел, хешей и пакетов (повторное нажатие закроет)

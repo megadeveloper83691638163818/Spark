@@ -1,0 +1,21 @@
+/** -- C++ -- */
+
+.cpp-comment {
+	-fx-fill: green;
+}
+.cpp-string {
+	-fx-fill: #b5651d;
+}
+.cpp-preprocessor {
+	-fx-fill: #8a2be2;
+}
+.cpp-number {
+	-fx-fill: #e5af25;
+}
+.cpp-keyword {
+	-fx-fill: rgb(0, 0, 255);
+	-fx-font-weight: bold;
+}
+.cpp-type {
+	-fx-fill: #008b8b;
+}

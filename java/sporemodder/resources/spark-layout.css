@@ -1,0 +1,44 @@
+/* Structure of the new window layout (sizes only, no colours; used by every style) */
+.quick-bar {
+    -fx-padding: 8 12 8 12;
+    -fx-hgap: 8;
+    -fx-vgap: 6;
+    -fx-alignment: center-left;
+    -fx-row-valignment: center;
+}
+
+.quick-bar .button, .quick-bar .menu-button, .quick-bar .toggle-button {
+    -fx-font-size: 14px;
+    -fx-padding: 8 16 8 16;
+    -fx-min-height: 36;
+}
+
+.quick-bar .top-tab {
+    -fx-background-radius: 5;
+}
+
+.top-tabs {
+    -fx-spacing: 4;
+    -fx-alignment: center-left;
+}
+
+.ribbon-panel {
+    -fx-background-color: transparent;
+    -fx-padding: 0;
+    -fx-min-height: 104;
+    -fx-pref-height: 112;
+}
+
+.ribbon-panel > .viewport {
+    -fx-background-color: transparent;
+}
+
+.dock-split > .split-pane-divider {
+    -fx-padding: 0 3 0 3;
+}
+
+.file-popup {
+    -fx-padding: 10;
+    -fx-background-color: -fx-base;
+    -fx-border-color: derive(-fx-base, -25%);
+}

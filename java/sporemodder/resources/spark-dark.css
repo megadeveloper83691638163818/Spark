@@ -1,0 +1,103 @@
+.root {
+    -fx-base: #1d2129;
+    -fx-background: #14171c;
+    -fx-control-inner-background: #171b21;
+    -fx-control-inner-background-alt: #1a1f26;
+    -fx-dark-text-color: #e1e6ef;
+    -fx-mid-text-color: #aab3c2;
+    -fx-light-text-color: #e1e6ef;
+    -fx-accent: #3d8bff;
+    -fx-focus-color: #3d8bff;
+    -fx-faint-focus-color: #3d8bff22;
+    -fx-selection-bar: #2b4a73;
+    -fx-selection-bar-non-focused: #2a303a;
+}
+
+.quick-bar {
+    -fx-background-color: #191d24;
+    -fx-border-color: transparent transparent #2a303a transparent;
+    -fx-padding: 4 8 4 8;
+    -fx-spacing: 4;
+}
+
+.quick-bar .button, .quick-bar .menu-button {
+    -fx-background-color: #222831;
+    -fx-background-radius: 5;
+    -fx-border-color: #2f3642;
+    -fx-border-radius: 5;
+    -fx-text-fill: #d7dde8;
+}
+
+.quick-bar .button:hover, .quick-bar .menu-button:hover {
+    -fx-background-color: #2a313c;
+}
+
+.quick-bar .accent-button {
+    -fx-background-color: #3d8bff;
+    -fx-border-color: #3d8bff;
+    -fx-text-fill: white;
+}
+
+.quick-bar .accent-button:hover {
+    -fx-background-color: #5599ff;
+}
+
+.dock-split > .split-pane-divider {
+    -fx-background-color: #262b34;
+    -fx-padding: 0 2 0 2;
+}
+
+.dock-split > .split-pane-divider:hover {
+    -fx-background-color: #3d8bff;
+}
+
+.dock-split {
+    -fx-background-color: #14171c;
+    -fx-padding: 0;
+}
+
+.debug-area, .debug-area .content {
+    -fx-background-color: #12151a;
+    -fx-text-fill: #aeb8c9;
+    -fx-highlight-fill: #2b4a73;
+}
+
+.tab-pane > .tab-header-area > .headers-region > .tab:selected {
+    -fx-border-color: transparent transparent #3d8bff transparent;
+}
+
+.quick-bar .top-tab {
+    -fx-background-color: transparent;
+    -fx-border-color: transparent;
+    -fx-text-fill: #aab3c2;
+}
+
+.quick-bar .top-tab:hover {
+    -fx-background-color: #222831;
+    -fx-text-fill: #e1e6ef;
+}
+
+.quick-bar .top-tab:selected {
+    -fx-background-color: #222831;
+    -fx-border-color: transparent transparent #3d8bff transparent;
+    -fx-border-width: 0 0 2 0;
+    -fx-text-fill: #e1e6ef;
+}
+
+.ribbon-panel {
+    -fx-background-color: #191d24;
+    -fx-border-color: transparent transparent #2a303a transparent;
+}
+
+.ribbon-panel-content {
+    -fx-background-color: #191d24;
+}
+
+.file-popup {
+    -fx-background-color: #1d2129;
+    -fx-border-color: #2f3642;
+}
+
+.debug-area {
+    -fx-border-color: #2a303a;
+}
